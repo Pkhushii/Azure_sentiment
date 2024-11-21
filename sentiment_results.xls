@@ -1,0 +1,6 @@
+Headline,Sentiment,SentimentCategory
+"I love this product, it's amazing!",0.625,Positive
+Terrible service. Very disappointed.,-0.9875,Negative
+"It's okay, but not great.",0.04999999999999999,Positive
+Absolutely fantastic experience!,0.5,Positive
+The worst experience I've had in years.,-1.0,Negative
